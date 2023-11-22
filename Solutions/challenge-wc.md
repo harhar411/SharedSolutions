@@ -33,4 +33,5 @@ The shared solutions:
 | 25 | [wc](https://github.com/dethancosta/ccwc) | C | [dethancosta](https://github.com/dethancosta) |
 | 26 | [ccwc_tool](https://github.com/marek-jakub/ccwc_tool) | Python | [marek-jakub](https://github.com/marek-jakub) |
 | 26 | [ccwc-tool](https://github.com/faramarzaf/ccwc-tool) | Go | [Faramarz](https://github.com/faramarzaf) |
+| 27 | [ccwc](https://github.com/harhar411/coding-challenge-wordcount) | Java | [harhar411](https://github.com/harhar411)
 
